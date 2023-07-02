@@ -1,0 +1,15 @@
+/home/hiago/Code/cs_test/bin/Debug/net7.0/cs_test
+/home/hiago/Code/cs_test/bin/Debug/net7.0/cs_test.deps.json
+/home/hiago/Code/cs_test/bin/Debug/net7.0/cs_test.runtimeconfig.json
+/home/hiago/Code/cs_test/bin/Debug/net7.0/cs_test.dll
+/home/hiago/Code/cs_test/bin/Debug/net7.0/cs_test.pdb
+/home/hiago/Code/cs_test/obj/Debug/net7.0/cs_test.csproj.AssemblyReference.cache
+/home/hiago/Code/cs_test/obj/Debug/net7.0/cs_test.GeneratedMSBuildEditorConfig.editorconfig
+/home/hiago/Code/cs_test/obj/Debug/net7.0/cs_test.AssemblyInfoInputs.cache
+/home/hiago/Code/cs_test/obj/Debug/net7.0/cs_test.AssemblyInfo.cs
+/home/hiago/Code/cs_test/obj/Debug/net7.0/cs_test.csproj.CoreCompileInputs.cache
+/home/hiago/Code/cs_test/obj/Debug/net7.0/cs_test.dll
+/home/hiago/Code/cs_test/obj/Debug/net7.0/refint/cs_test.dll
+/home/hiago/Code/cs_test/obj/Debug/net7.0/cs_test.pdb
+/home/hiago/Code/cs_test/obj/Debug/net7.0/cs_test.genruntimeconfig.cache
+/home/hiago/Code/cs_test/obj/Debug/net7.0/ref/cs_test.dll

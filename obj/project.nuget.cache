@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "71ir85Rlxgz8v/upu0pnqszigt14fguQM+HbqYtsCiXsVJ4Gl0YGbSfbIUs6KN9kkExRNy4MVPk7OkPonxwCiQ==",
+  "success": true,
+  "projectFilePath": "/home/hiago/Code/cs_test/cs_test.csproj",
+  "expectedPackageFiles": [
+    "/home/hiago/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.7/microsoft.aspnetcore.app.ref.7.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
