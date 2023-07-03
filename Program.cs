@@ -18,6 +18,9 @@
 
     static void Game()
     {
+        lineMaker(50);
+        Console.WriteLine("Guessing Game");
+        lineMaker(50);
         int computerNumber;
         int playerNumber;
 
@@ -31,22 +34,27 @@
         {
             case "Easy":
                 computerNumber = rand.Next(0, 10);
+                Console.WriteLine("The computer chose a number between 0 and 10. Try to guess it!");
                 break;
 
             case "Medium":
                 computerNumber = rand.Next(0, 25);
+                Console.WriteLine("The computer chose a number between 0 and 25. Try to guess it!");
                 break;
 
             case "Hard":
                 computerNumber = rand.Next(0, 40);
+                Console.WriteLine("The computer chose a number between 0 and 40. Try to guess it!");
                 break;
 
             case "Very Hard":
                 computerNumber = rand.Next(0, 75);
+                Console.WriteLine("The computer chose a number between 0 and 75. Try to guess it!");
                 break;
 
             case "Impossible":
                 computerNumber = rand.Next(0, 100);
+                Console.WriteLine("The computer chose a number between 0 and 100. Try to guess it!");
                 break;
         }
         Console.Write("Guess: ");
@@ -91,7 +99,7 @@
         bool finalAnswer = true;
         string response = "N";
 
-        Console.WriteLine("Wanna play again? [Y/N]: ");
+        Console.Write("Wanna play again? [Y/N]: ");
 
         response = Console.ReadLine().ToUpper();
 
@@ -100,7 +108,17 @@
             finalAnswer = false;
         }
 
+        lineMaker(50);
         return finalAnswer;
+    }
+
+    static void lineMaker(int lineLength)
+    {
+        for (int i = 0; i < lineLength; i++)
+        {
+            Console.Write('-');
+        }
+        Console.WriteLine();
     }
 }
 
